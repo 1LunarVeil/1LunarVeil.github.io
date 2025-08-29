@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://1LunarVeil.github.io</id>
+    <id>https://1lunarveil.github.io</id>
     <title>blog</title>
-    <link href="https://1LunarVeil.github.io" />
+    <link href="https://1lunarveil.github.io" />
     <updated>2025-08-27T07:03:47.000Z</updated>
     <entry>
         <id>https://1lunarveil.github.io/article-title/</id>
