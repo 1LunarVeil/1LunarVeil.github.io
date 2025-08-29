@@ -5,16 +5,16 @@
     <link href="https://1LunarVeil.github.io" />
     <updated>2025-08-27T07:03:47.000Z</updated>
     <entry>
-        <id>https://1lunarveil.github.io/2025/08/27/article-title/</id>
+        <id>https://1lunarveil.github.io/article-title/</id>
         <title>article title</title>
-        <link rel="alternate" href="https://1lunarveil.github.io/2025/08/27/article-title/"/>
+        <link rel="alternate" href="https://1lunarveil.github.io/article-title/"/>
         <content type="html"></content>
         <updated>2025-08-27T07:03:47.000Z</updated>
     </entry>
     <entry>
-        <id>https://1lunarveil.github.io/2025/03/26/hello-world/</id>
+        <id>https://1lunarveil.github.io/hello-world/</id>
         <title>Hello hexo</title>
-        <link rel="alternate" href="https://1lunarveil.github.io/2025/03/26/hello-world/"/>
+        <link rel="alternate" href="https://1lunarveil.github.io/hello-world/"/>
         <content type="html">&lt;p&gt;​	Welcome to my blog!&lt;/p&gt;
 &lt;p&gt;​	This is my very first post.&lt;/p&gt;
 &lt;p&gt;​	If you get any problems , you can find the answer in this blog or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
