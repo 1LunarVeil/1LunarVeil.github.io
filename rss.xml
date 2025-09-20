@@ -1,12 +1,19 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>blog</title>
+        <title>H&#39;s blog</title>
+        <subtitle>Weclome</subtitle>
+        <icon>https://1lunarveil.github.io/images/favicon.ico</icon>
         <link>https://1lunarveil.github.io</link>
-        <description></description>
+        <author>
+          <name>1LunarVeil</name>
+        </author>
+        <description>A personal blog of a computer novice</description>
         <language>zh-CN</language>
         <pubDate>Wed, 27 Aug 2025 15:03:47 +0800</pubDate>
         <lastBuildDate>Wed, 27 Aug 2025 15:03:47 +0800</lastBuildDate>
+        <category term="shoka" />
+        <category term="study" />
         <item>
             <guid isPermalink="true">https://1lunarveil.github.io/article-title/</guid>
             <title>article title</title>
@@ -22,8 +29,8 @@
             <description><![CDATA[ &lt;p&gt;​	Welcome to my blog!&lt;/p&gt;
 &lt;p&gt;​	This is my very first post.&lt;/p&gt;
 &lt;p&gt;​	If you get any problems , you can find the answer in this blog or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;​	I’m a novice in network security. Similarly,I also run into obstacles in my studies in this area. Therefore,I chose to set up a blog of my own to communicate and learn with everyone.&lt;/p&gt;
-&lt;p&gt;​	I hope everyone won’t look down upon me. Let’s study and make progress together. Thanks!&lt;/p&gt;
+&lt;p&gt;​	I&#39;m a novice in network security. Similarly,I also run into obstacles in my studies in this area. Therefore,I chose to set up a blog of my own to communicate and learn with everyone.&lt;/p&gt;
+&lt;p&gt;​	I hope everyone won&#39;t look down upon me. Let&#39;s study and make progress together. Thanks!&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

@@ -1,7 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "blog",
-    "description": "",
+    "title": "H's blog",
+    "subtitle": "Weclome",
+    "icon": "https://1lunarveil.github.io/images/favicon.ico",
+    "description": "A personal blog of a computer novice",
     "home_page_url": "https://1lunarveil.github.io",
     "items": [
         {
@@ -17,7 +19,7 @@
             "url": "https://1lunarveil.github.io/hello-world/",
             "title": "Hello hexo",
             "date_published": "2025-03-26T09:13:29.409Z",
-            "content_html": "<p>​\tWelcome to my blog!</p>\n<p>​\tThis is my very first post.</p>\n<p>​\tIf you get any problems , you can find the answer in this blog or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<p>​\tI’m a novice in network security. Similarly,I also run into obstacles in my studies in this area. Therefore,I chose to set up a blog of my own to communicate and learn with everyone.</p>\n<p>​\tI hope everyone won’t look down upon me. Let’s study and make progress together. Thanks!</p>\n",
+            "content_html": "<p>​\tWelcome to my blog!</p>\n<p>​\tThis is my very first post.</p>\n<p>​\tIf you get any problems , you can find the answer in this blog or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<p>​\tI'm a novice in network security. Similarly,I also run into obstacles in my studies in this area. Therefore,I chose to set up a blog of my own to communicate and learn with everyone.</p>\n<p>​\tI hope everyone won't look down upon me. Let's study and make progress together. Thanks!</p>\n",
             "tags": []
         }
     ]
