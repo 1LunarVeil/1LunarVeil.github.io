@@ -10,10 +10,31 @@
         </author>
         <description>A personal blog of a computer novice</description>
         <language>zh-CN</language>
-        <pubDate>Wed, 27 Aug 2025 15:03:47 +0800</pubDate>
-        <lastBuildDate>Wed, 27 Aug 2025 15:03:47 +0800</lastBuildDate>
+        <pubDate>Sat, 20 Sep 2025 18:10:35 +0800</pubDate>
+        <lastBuildDate>Sat, 20 Sep 2025 18:10:35 +0800</lastBuildDate>
         <category term="shoka" />
         <category term="study" />
+        <item>
+            <guid isPermalink="true">https://1lunarveil.github.io/windows2003/</guid>
+            <title>windows2003</title>
+            <link>https://1lunarveil.github.io/windows2003/</link>
+            <category term="教程" scheme="https://1lunarveil.github.io/tags/%E6%95%99%E7%A8%8B/" />
+            <pubDate>Sat, 20 Sep 2025 18:10:35 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;window2003安装过程中的一些问题总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#window2003安装过程中的一些问题总结&#34;&gt;#&lt;/a&gt; window2003安装过程中的一些问题总结&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;关于上课讲到的2003的安装，想必基本完成了，剩下的一些问题就是如何打开跟操作，接下来我会把一些在打开虚拟机的过程中可能遇到的问题跟大家分享一下&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;首先当我打开200302的时候，发现遇到了这种问题&lt;img data-src=&#34;windows2003.assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250917212102_51_106.png&#34; alt&gt;&lt;/p&gt;
+&lt;p&gt;解决方法：&lt;/p&gt;
+&lt;p&gt;1.先把叉叉点了，然后把虚拟机关机&lt;/p&gt;
+&lt;p&gt;2.将虚拟机先关机之后，点击编辑虚拟机设置，随后检查硬盘文件位置和CD/DVD文件，查看是否都设置好了，如果没有，则补全&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;windows2003.assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250917212432_52_106-1758363392516-3.png&#34; alt&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;windows2003.assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250917212441_53_106.png&#34; alt&gt;&lt;/p&gt;
+&lt;p&gt;3.完成之后点击确定，然后就可以打开虚拟机了，接着就是进入我们这个登入界面，我这里是没有修改用户名的，如果之前设置过用户名的可以自行修改（有人发现密码不能输入数字？真有人吗？注：如果你发现无法输入数字，请看数字键最上面那一行NumLock键是否亮起，如若没亮，按亮之后就可以正常输入数字了）&lt;img data-src=&#34;windows2003.assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250917212606_54_106.png&#34; alt&gt;&lt;/p&gt;
+&lt;p&gt;4.这个界面我们不用管它，直接在下面注释那里输入No接着确定就行了&lt;img data-src=&#34;windows2003.assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250917213527_55_106.png&#34; alt&gt;&lt;/p&gt;
+&lt;p&gt;5.这个界面也是，我已经试过了，更新的网址已经打不开了，所以也不用管，直接叉叉就行&lt;img data-src=&#34;windows2003.assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250917213556_56_106.png&#34; alt&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;windows2003.assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250917213906_57_106.png&#34; alt&gt;&lt;/p&gt;
+&lt;p&gt;6.完结撒花，windows 2003的虚拟机安装算是圆满完成&lt;img data-src=&#34;windows2003.assets/e0ba7b963f4633dce33e95d010d33c5b.png&#34; alt&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://1lunarveil.github.io/article-title/</guid>
             <title>article title</title>
