@@ -1,3 +1,0 @@
-// build time:Sat Sep 20 2025 15:15:22 GMT+0800 (中国标准时间)
-var e=0;jQuery(document).ready(function(t){t("body").click(function(o){var n=new Array("富强","民主","文明","和谐","自由","平等","公正","法治","爱国","敬业","诚信","友善");var a=t("<span/>").text(n[e]);e=(e+1)%n.length;var i=o.pageX,r=o.pageY;a.css({"z-index":5,top:r-20,left:i,position:"absolute","font-weight":"bold",color:"#FF0000"});t("body").append(a);a.animate({top:r-180,opacity:0},3e3,function(){a.remove()})});setTimeout("delay()",2e3)});function t(){$(".buryit").removeAttr("onclick")}
-//rebuild by hrmmi 
