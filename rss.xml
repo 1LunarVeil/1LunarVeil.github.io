@@ -29,8 +29,8 @@
 &lt;li&gt;在VMware Workstation菜单栏点击「编辑」→「虚拟网络编辑器」。&lt;/li&gt;
 &lt;li&gt;若提示需要管理员权限，点击「更改设置」。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img data-src=&#34;/.io//%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250921161957_63_106.png&#34; alt=&#34;微信图片_20250921161957_63_106&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/.io//%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250921161934_62_106.png&#34; alt=&#34;微信图片_20250921161934_62_106&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/1LunarVeil/Picture-bed@main/img/202509261940696.png&#34; alt=&#34;微信图片_20250921161957_63_106&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/1LunarVeil/Picture-bed@main/img/202509261941323.png&#34; alt=&#34;微信图片_20250921161934_62_106&#34;&gt;&lt;/p&gt;
 &lt;p&gt;接着设置VMnet1为仅主机模式&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;选择「VMnet1」，下方勾选「仅主机模式」，取消勾选「将主机虚拟适配器连接到此网络」（仅主机模式下无需主机参与）。&lt;/li&gt;
